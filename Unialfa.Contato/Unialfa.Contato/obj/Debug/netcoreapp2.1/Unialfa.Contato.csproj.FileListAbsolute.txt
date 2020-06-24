@@ -1,0 +1,13 @@
+C:\Users\usert\Documents\Laboratorio\Unialfa\Unialfa.Contato\Unialfa.Contato\bin\Debug\netcoreapp2.1\Unialfa.Contato.deps.json
+C:\Users\usert\Documents\Laboratorio\Unialfa\Unialfa.Contato\Unialfa.Contato\bin\Debug\netcoreapp2.1\Unialfa.Contato.runtimeconfig.json
+C:\Users\usert\Documents\Laboratorio\Unialfa\Unialfa.Contato\Unialfa.Contato\bin\Debug\netcoreapp2.1\Unialfa.Contato.runtimeconfig.dev.json
+C:\Users\usert\Documents\Laboratorio\Unialfa\Unialfa.Contato\Unialfa.Contato\bin\Debug\netcoreapp2.1\Unialfa.Contato.dll
+C:\Users\usert\Documents\Laboratorio\Unialfa\Unialfa.Contato\Unialfa.Contato\obj\Debug\netcoreapp2.1\Unialfa.Contato.csprojAssemblyReference.cache
+C:\Users\usert\Documents\Laboratorio\Unialfa\Unialfa.Contato\Unialfa.Contato\obj\Debug\netcoreapp2.1\Unialfa.Contato.RazorAssemblyInfo.cache
+C:\Users\usert\Documents\Laboratorio\Unialfa\Unialfa.Contato\Unialfa.Contato\obj\Debug\netcoreapp2.1\Unialfa.Contato.RazorAssemblyInfo.cs
+C:\Users\usert\Documents\Laboratorio\Unialfa\Unialfa.Contato\Unialfa.Contato\obj\Debug\netcoreapp2.1\Unialfa.Contato.AssemblyInfoInputs.cache
+C:\Users\usert\Documents\Laboratorio\Unialfa\Unialfa.Contato\Unialfa.Contato\obj\Debug\netcoreapp2.1\Unialfa.Contato.AssemblyInfo.cs
+C:\Users\usert\Documents\Laboratorio\Unialfa\Unialfa.Contato\Unialfa.Contato\obj\Debug\netcoreapp2.1\Unialfa.Contato.RazorTargetAssemblyInfo.cache
+C:\Users\usert\Documents\Laboratorio\Unialfa\Unialfa.Contato\Unialfa.Contato\bin\Debug\netcoreapp2.1\Unialfa.Contato.pdb
+C:\Users\usert\Documents\Laboratorio\Unialfa\Unialfa.Contato\Unialfa.Contato\obj\Debug\netcoreapp2.1\Unialfa.Contato.dll
+C:\Users\usert\Documents\Laboratorio\Unialfa\Unialfa.Contato\Unialfa.Contato\obj\Debug\netcoreapp2.1\Unialfa.Contato.pdb
